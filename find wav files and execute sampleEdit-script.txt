@@ -1,0 +1,2 @@
+#find wav files and execute addVolToName-script
+find . -name '*.wav' -execdir ~/bin/sampleEdit.sh {} \;

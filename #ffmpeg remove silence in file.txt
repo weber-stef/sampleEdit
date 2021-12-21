@@ -1,0 +1,15 @@
+#ffmpeg remove silence in file
+
+for file in ./*/* ; do ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-50dB:stop_threshold=-50dB:start_silence=0:stop_silence=0" "${tmp/file%.*}"-c.wav; done
+
+find * -type f \( -iname \*.mp4 -o -iname \*.mov \) -execdir ffmpeg -i {} -vcodec libx265 -crf 24 temp_{} \; -execdir mv temp_{} {} \;
+
+find ./* -type f -execdir ffmpeg -i {} -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-50dB:stop_threshold=-50dB:start_silence=0:stop_silence=0" temp_{} \; 
+
+-execdir mv temp_{} {} \;
+
+FILES=(./*)
+for f in "${FILES[@]}"
+do
+  basename "$f"
+done

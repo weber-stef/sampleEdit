@@ -1,0 +1,15 @@
+#find wav files and execute addVolToName-script
+find . -name '*.wav' -execdir ~/bin/addVolToName.sh {} /;
+find . -name '*.wav' -not -path "*/cuts" -execdir ~/bin/ffmpeg-cut-sil.sh {} /;
+
+find . -name '*.wav' -not -path "*/cuts" -execdir ~/bin/ffmpeg-cut-sil.sh {} /;
+
+find . -name '*.wav'; ffmpeg -i {} -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-50dB:stop_threshold=-50dB:start_silence=0:stop_silence=0" "/tmp/$input";rm "$input"; mv "/tmp/$input" .;
+
+input="InpuFile"; ffmpeg -i "$input" -y -vcodec h264 -acodec aac -strict -2 "/tmp/$input";rm "$input"; mv "/tmp/$input" .;
+
+for file in ./*/*.wav; do ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-50dB:stop_threshold=-50dB:start_silence=0:stop_silence=0" "${file%.wav}"-c.wav; done
+
+for f in ./*/*-c.wav; 
+
+G:/_Projekte/_Projekte-Musik/Partition.Vitatech-Soundz/_VITATECHSOUNDZ-STUDIO/_06.SoundzSamplesCaptures/_Soundz/_drumsamples

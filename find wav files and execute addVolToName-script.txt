@@ -1,0 +1,4 @@
+#find wav files and execute addVolToName-script
+find . -name '*.wav' -execdir ~/bin/sampleEdit.sh {} \;
+
+for i in {1..5}; do cp -rp ../drs ../drs$i; done

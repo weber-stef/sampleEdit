@@ -1,0 +1,15 @@
+#!/bin/bash
+#Shorten long files with silence in loop 
+
+for file in *.wav
+do
+if [ ! -f cuts/$file ]
+# exit when any command fails
+set -e
+then
+ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-50dB:stop_threshold=-50dB:start_silence=0:stop_silence=0" "./cuts/${file%.wav}.wav"
+else
+echo "File gibt es schon"
+fi
+# exit when any command fails
+done
