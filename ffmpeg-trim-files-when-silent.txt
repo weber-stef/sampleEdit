@@ -1,4 +1,5 @@
 #Shorten long files with silence in loop
 
-for file in ./*/* ; do ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-60dB:stop_threshold=-60dB:start_silence=0:stop_silence=0" "${file%.*}"-c.wav; mv "${file%.*}"-c.wav "${file%.*}".wav; done
+for file in ./*/* ; do ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-60dB:stop_threshold=-60dB:start_silence=0:stop_silence=0" "${file%.*}-c.wav"; mv "${file%.*}-c.wav" "${file%.*}.wav"; done
 
+for file in ./*/* ; do ffmpeg -i "$file" -af "silenceremove=start_periods=1:stop_periods=-1:start_threshold=-70dB:stop_threshold=-70dB:start_silence=0:stop_silence=0" "${file%.*}-c.wav"; mv "${file%.*}-c.wav" "${file%.*}.wav"; done

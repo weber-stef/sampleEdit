@@ -1,0 +1,1450 @@
+./drs-for-tx16wx/BD/BD-Stef-001.wav
+basename is BD-Stef-001.wav
+directory is ./drs-for-tx16wx/BD
+It's -5.8dB loud
+jetzt ist mvol-5.8dB-BD-Stef-001.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-002.wav
+basename is BD-Stef-002.wav
+directory is ./drs-for-tx16wx/BD
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-BD-Stef-002.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-003.wav
+basename is BD-Stef-003.wav
+directory is ./drs-for-tx16wx/BD
+It's -3.0dB loud
+jetzt ist mvol-3.0dB-BD-Stef-003.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-004.wav
+basename is BD-Stef-004.wav
+directory is ./drs-for-tx16wx/BD
+It's -3.9dB loud
+jetzt ist mvol-3.9dB-BD-Stef-004.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-005.wav
+basename is BD-Stef-005.wav
+directory is ./drs-for-tx16wx/BD
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-BD-Stef-005.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-006.wav
+basename is BD-Stef-006.wav
+directory is ./drs-for-tx16wx/BD
+It's -3.7dB loud
+jetzt ist mvol-3.7dB-BD-Stef-006.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-007.wav
+basename is BD-Stef-007.wav
+directory is ./drs-for-tx16wx/BD
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-BD-Stef-007.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-008.wav
+basename is BD-Stef-008.wav
+directory is ./drs-for-tx16wx/BD
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-BD-Stef-008.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/BD/BD-Stef-009.wav
+basename is BD-Stef-009.wav
+directory is ./drs-for-tx16wx/BD
+It's -2.8dB loud
+jetzt ist mvol-2.8dB-BD-Stef-009.wav in ./drs-for-tx16wx/BD
+./drs-for-tx16wx/Crash/Crash-Stef-001.wav
+basename is Crash-Stef-001.wav
+directory is ./drs-for-tx16wx/Crash
+It's -24.6dB loud
+jetzt ist mvol-24.6dB-Crash-Stef-001.wav in ./drs-for-tx16wx/Crash
+./drs-for-tx16wx/Crash/Crash-Stef-002.wav
+basename is Crash-Stef-002.wav
+directory is ./drs-for-tx16wx/Crash
+It's -24.9dB loud
+jetzt ist mvol-24.9dB-Crash-Stef-002.wav in ./drs-for-tx16wx/Crash
+./drs-for-tx16wx/Crash/Crash-Stef-003.wav
+basename is Crash-Stef-003.wav
+directory is ./drs-for-tx16wx/Crash
+It's -19.2dB loud
+jetzt ist mvol-19.2dB-Crash-Stef-003.wav in ./drs-for-tx16wx/Crash
+./drs-for-tx16wx/Crash/Crash-Stef-004.wav
+basename is Crash-Stef-004.wav
+directory is ./drs-for-tx16wx/Crash
+It's -32.5dB loud
+jetzt ist mvol-32.5dB-Crash-Stef-004.wav in ./drs-for-tx16wx/Crash
+./drs-for-tx16wx/Crash/Crash-Stef-005.wav
+basename is Crash-Stef-005.wav
+directory is ./drs-for-tx16wx/Crash
+It's -29.5dB loud
+jetzt ist mvol-29.5dB-Crash-Stef-005.wav in ./drs-for-tx16wx/Crash
+./drs-for-tx16wx/FT1/FT1-Stef-001.wav
+basename is FT1-Stef-001.wav
+directory is ./drs-for-tx16wx/FT1
+It's -0.5dB loud
+jetzt ist mvol-0.5dB-FT1-Stef-001.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-002.wav
+basename is FT1-Stef-002.wav
+directory is ./drs-for-tx16wx/FT1
+It's -10.8dB loud
+jetzt ist mvol-10.8dB-FT1-Stef-002.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-003.wav
+basename is FT1-Stef-003.wav
+directory is ./drs-for-tx16wx/FT1
+It's -20.1dB loud
+jetzt ist mvol-20.1dB-FT1-Stef-003.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-004.wav
+basename is FT1-Stef-004.wav
+directory is ./drs-for-tx16wx/FT1
+It's -25.2dB loud
+jetzt ist mvol-25.2dB-FT1-Stef-004.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-005.wav
+basename is FT1-Stef-005.wav
+directory is ./drs-for-tx16wx/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-005.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-006.wav
+basename is FT1-Stef-006.wav
+directory is ./drs-for-tx16wx/FT1
+It's -20.0dB loud
+jetzt ist mvol-20.0dB-FT1-Stef-006.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-007.wav
+basename is FT1-Stef-007.wav
+directory is ./drs-for-tx16wx/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-007.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-008.wav
+basename is FT1-Stef-008.wav
+directory is ./drs-for-tx16wx/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-008.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-009.wav
+basename is FT1-Stef-009.wav
+directory is ./drs-for-tx16wx/FT1
+It's -5.8dB loud
+jetzt ist mvol-5.8dB-FT1-Stef-009.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-010.wav
+basename is FT1-Stef-010.wav
+directory is ./drs-for-tx16wx/FT1
+It's -9.2dB loud
+jetzt ist mvol-9.2dB-FT1-Stef-010.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-011.wav
+basename is FT1-Stef-011.wav
+directory is ./drs-for-tx16wx/FT1
+It's -3.1dB loud
+jetzt ist mvol-3.1dB-FT1-Stef-011.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-012.wav
+basename is FT1-Stef-012.wav
+directory is ./drs-for-tx16wx/FT1
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT1-Stef-012.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-013.wav
+basename is FT1-Stef-013.wav
+directory is ./drs-for-tx16wx/FT1
+It's -11.4dB loud
+jetzt ist mvol-11.4dB-FT1-Stef-013.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-014.wav
+basename is FT1-Stef-014.wav
+directory is ./drs-for-tx16wx/FT1
+It's -6.5dB loud
+jetzt ist mvol-6.5dB-FT1-Stef-014.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-015.wav
+basename is FT1-Stef-015.wav
+directory is ./drs-for-tx16wx/FT1
+It's -0.8dB loud
+jetzt ist mvol-0.8dB-FT1-Stef-015.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT1/FT1-Stef-016.wav
+basename is FT1-Stef-016.wav
+directory is ./drs-for-tx16wx/FT1
+It's -4.8dB loud
+jetzt ist mvol-4.8dB-FT1-Stef-016.wav in ./drs-for-tx16wx/FT1
+./drs-for-tx16wx/FT2/FT2-Stef-001.wav
+basename is FT2-Stef-001.wav
+directory is ./drs-for-tx16wx/FT2
+It's -1.7dB loud
+jetzt ist mvol-1.7dB-FT2-Stef-001.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-002.wav
+basename is FT2-Stef-002.wav
+directory is ./drs-for-tx16wx/FT2
+It's -4.8dB loud
+jetzt ist mvol-4.8dB-FT2-Stef-002.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-003.wav
+basename is FT2-Stef-003.wav
+directory is ./drs-for-tx16wx/FT2
+It's -11.5dB loud
+jetzt ist mvol-11.5dB-FT2-Stef-003.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-004.wav
+basename is FT2-Stef-004.wav
+directory is ./drs-for-tx16wx/FT2
+It's -22.6dB loud
+jetzt ist mvol-22.6dB-FT2-Stef-004.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-005.wav
+basename is FT2-Stef-005.wav
+directory is ./drs-for-tx16wx/FT2
+It's -0.6dB loud
+jetzt ist mvol-0.6dB-FT2-Stef-005.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-006.wav
+basename is FT2-Stef-006.wav
+directory is ./drs-for-tx16wx/FT2
+It's -3.3dB loud
+jetzt ist mvol-3.3dB-FT2-Stef-006.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-007.wav
+basename is FT2-Stef-007.wav
+directory is ./drs-for-tx16wx/FT2
+It's -14.1dB loud
+jetzt ist mvol-14.1dB-FT2-Stef-007.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-008.wav
+basename is FT2-Stef-008.wav
+directory is ./drs-for-tx16wx/FT2
+It's -13.2dB loud
+jetzt ist mvol-13.2dB-FT2-Stef-008.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-009.wav
+basename is FT2-Stef-009.wav
+directory is ./drs-for-tx16wx/FT2
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT2-Stef-009.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-010.wav
+basename is FT2-Stef-010.wav
+directory is ./drs-for-tx16wx/FT2
+It's -6.4dB loud
+jetzt ist mvol-6.4dB-FT2-Stef-010.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-011.wav
+basename is FT2-Stef-011.wav
+directory is ./drs-for-tx16wx/FT2
+It's -11.8dB loud
+jetzt ist mvol-11.8dB-FT2-Stef-011.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-012.wav
+basename is FT2-Stef-012.wav
+directory is ./drs-for-tx16wx/FT2
+It's -18.7dB loud
+jetzt ist mvol-18.7dB-FT2-Stef-012.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-013.wav
+basename is FT2-Stef-013.wav
+directory is ./drs-for-tx16wx/FT2
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT2-Stef-013.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-014.wav
+basename is FT2-Stef-014.wav
+directory is ./drs-for-tx16wx/FT2
+It's -11.9dB loud
+jetzt ist mvol-11.9dB-FT2-Stef-014.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-015.wav
+basename is FT2-Stef-015.wav
+directory is ./drs-for-tx16wx/FT2
+It's -1.0dB loud
+jetzt ist mvol-1.0dB-FT2-Stef-015.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/FT2/FT2-Stef-016.wav
+basename is FT2-Stef-016.wav
+directory is ./drs-for-tx16wx/FT2
+It's -11.5dB loud
+jetzt ist mvol-11.5dB-FT2-Stef-016.wav in ./drs-for-tx16wx/FT2
+./drs-for-tx16wx/HH/HH-stef-001.wav
+basename is HH-stef-001.wav
+directory is ./drs-for-tx16wx/HH
+It's -44.6dB loud
+jetzt ist mvol-44.6dB-HH-stef-001.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-002.wav
+basename is HH-stef-002.wav
+directory is ./drs-for-tx16wx/HH
+It's -33.0dB loud
+jetzt ist mvol-33.0dB-HH-stef-002.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-003.wav
+basename is HH-stef-003.wav
+directory is ./drs-for-tx16wx/HH
+It's -30.5dB loud
+jetzt ist mvol-30.5dB-HH-stef-003.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-004.wav
+basename is HH-stef-004.wav
+directory is ./drs-for-tx16wx/HH
+It's -33.0dB loud
+jetzt ist mvol-33.0dB-HH-stef-004.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-005.wav
+basename is HH-stef-005.wav
+directory is ./drs-for-tx16wx/HH
+It's -36.7dB loud
+jetzt ist mvol-36.7dB-HH-stef-005.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-006.wav
+basename is HH-stef-006.wav
+directory is ./drs-for-tx16wx/HH
+It's -31.3dB loud
+jetzt ist mvol-31.3dB-HH-stef-006.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-007.wav
+basename is HH-stef-007.wav
+directory is ./drs-for-tx16wx/HH
+It's -33.7dB loud
+jetzt ist mvol-33.7dB-HH-stef-007.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-008.wav
+basename is HH-stef-008.wav
+directory is ./drs-for-tx16wx/HH
+It's -19.8dB loud
+jetzt ist mvol-19.8dB-HH-stef-008.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-009.wav
+basename is HH-stef-009.wav
+directory is ./drs-for-tx16wx/HH
+It's -25.9dB loud
+jetzt ist mvol-25.9dB-HH-stef-009.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-010.wav
+basename is HH-stef-010.wav
+directory is ./drs-for-tx16wx/HH
+It's -28.1dB loud
+jetzt ist mvol-28.1dB-HH-stef-010.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-011.wav
+basename is HH-stef-011.wav
+directory is ./drs-for-tx16wx/HH
+It's -21.0dB loud
+jetzt ist mvol-21.0dB-HH-stef-011.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-012.wav
+basename is HH-stef-012.wav
+directory is ./drs-for-tx16wx/HH
+It's -20.4dB loud
+jetzt ist mvol-20.4dB-HH-stef-012.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-013.wav
+basename is HH-stef-013.wav
+directory is ./drs-for-tx16wx/HH
+It's -18.9dB loud
+jetzt ist mvol-18.9dB-HH-stef-013.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-014.wav
+basename is HH-stef-014.wav
+directory is ./drs-for-tx16wx/HH
+It's -18.8dB loud
+jetzt ist mvol-18.8dB-HH-stef-014.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-015.wav
+basename is HH-stef-015.wav
+directory is ./drs-for-tx16wx/HH
+It's -18.5dB loud
+jetzt ist mvol-18.5dB-HH-stef-015.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-016.wav
+basename is HH-stef-016.wav
+directory is ./drs-for-tx16wx/HH
+It's -19.6dB loud
+jetzt ist mvol-19.6dB-HH-stef-016.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-017.wav
+basename is HH-stef-017.wav
+directory is ./drs-for-tx16wx/HH
+It's -17.9dB loud
+jetzt ist mvol-17.9dB-HH-stef-017.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-018.wav
+basename is HH-stef-018.wav
+directory is ./drs-for-tx16wx/HH
+It's -14.0dB loud
+jetzt ist mvol-14.0dB-HH-stef-018.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-019.wav
+basename is HH-stef-019.wav
+directory is ./drs-for-tx16wx/HH
+It's -13.3dB loud
+jetzt ist mvol-13.3dB-HH-stef-019.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-020.wav
+basename is HH-stef-020.wav
+directory is ./drs-for-tx16wx/HH
+It's -14.5dB loud
+jetzt ist mvol-14.5dB-HH-stef-020.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-021.wav
+basename is HH-stef-021.wav
+directory is ./drs-for-tx16wx/HH
+It's -15.0dB loud
+jetzt ist mvol-15.0dB-HH-stef-021.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-022.wav
+basename is HH-stef-022.wav
+directory is ./drs-for-tx16wx/HH
+It's -14.8dB loud
+jetzt ist mvol-14.8dB-HH-stef-022.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-023.wav
+basename is HH-stef-023.wav
+directory is ./drs-for-tx16wx/HH
+It's -15.8dB loud
+jetzt ist mvol-15.8dB-HH-stef-023.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-024.wav
+basename is HH-stef-024.wav
+directory is ./drs-for-tx16wx/HH
+It's -15.5dB loud
+jetzt ist mvol-15.5dB-HH-stef-024.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-025.wav
+basename is HH-stef-025.wav
+directory is ./drs-for-tx16wx/HH
+It's -15.0dB loud
+jetzt ist mvol-15.0dB-HH-stef-025.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-027.wav
+basename is HH-stef-027.wav
+directory is ./drs-for-tx16wx/HH
+It's -13.1dB loud
+jetzt ist mvol-13.1dB-HH-stef-027.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-028.wav
+basename is HH-stef-028.wav
+directory is ./drs-for-tx16wx/HH
+It's -15.7dB loud
+jetzt ist mvol-15.7dB-HH-stef-028.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-029.wav
+basename is HH-stef-029.wav
+directory is ./drs-for-tx16wx/HH
+It's -14.1dB loud
+jetzt ist mvol-14.1dB-HH-stef-029.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/HH/HH-stef-LOOP.wav
+basename is HH-stef-LOOP.wav
+directory is ./drs-for-tx16wx/HH
+It's -11.9dB loud
+jetzt ist mvol-11.9dB-HH-stef-LOOP.wav in ./drs-for-tx16wx/HH
+./drs-for-tx16wx/Ride/Ride-Loop-Stef.wav
+basename is Ride-Loop-Stef.wav
+directory is ./drs-for-tx16wx/Ride
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-Ride-Loop-Stef.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-001.wav
+basename is Ride-Stef-001.wav
+directory is ./drs-for-tx16wx/Ride
+It's -21.3dB loud
+jetzt ist mvol-21.3dB-Ride-Stef-001.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-002.wav
+basename is Ride-Stef-002.wav
+directory is ./drs-for-tx16wx/Ride
+It's -20.5dB loud
+jetzt ist mvol-20.5dB-Ride-Stef-002.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-003.wav
+basename is Ride-Stef-003.wav
+directory is ./drs-for-tx16wx/Ride
+It's -18.9dB loud
+jetzt ist mvol-18.9dB-Ride-Stef-003.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-004.wav
+basename is Ride-Stef-004.wav
+directory is ./drs-for-tx16wx/Ride
+It's -21.9dB loud
+jetzt ist mvol-21.9dB-Ride-Stef-004.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-005.wav
+basename is Ride-Stef-005.wav
+directory is ./drs-for-tx16wx/Ride
+It's -23.5dB loud
+jetzt ist mvol-23.5dB-Ride-Stef-005.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-006.wav
+basename is Ride-Stef-006.wav
+directory is ./drs-for-tx16wx/Ride
+It's -20.7dB loud
+jetzt ist mvol-20.7dB-Ride-Stef-006.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-007.wav
+basename is Ride-Stef-007.wav
+directory is ./drs-for-tx16wx/Ride
+It's -21.6dB loud
+jetzt ist mvol-21.6dB-Ride-Stef-007.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-008.wav
+basename is Ride-Stef-008.wav
+directory is ./drs-for-tx16wx/Ride
+It's -19.3dB loud
+jetzt ist mvol-19.3dB-Ride-Stef-008.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-009.wav
+basename is Ride-Stef-009.wav
+directory is ./drs-for-tx16wx/Ride
+It's -10.1dB loud
+jetzt ist mvol-10.1dB-Ride-Stef-009.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-010.wav
+basename is Ride-Stef-010.wav
+directory is ./drs-for-tx16wx/Ride
+It's -20.0dB loud
+jetzt ist mvol-20.0dB-Ride-Stef-010.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/Ride/Ride-Stef-011.wav
+basename is Ride-Stef-011.wav
+directory is ./drs-for-tx16wx/Ride
+It's -20.3dB loud
+jetzt ist mvol-20.3dB-Ride-Stef-011.wav in ./drs-for-tx16wx/Ride
+./drs-for-tx16wx/RT1/RT-1-Stef-001.wav
+basename is RT-1-Stef-001.wav
+directory is ./drs-for-tx16wx/RT1
+It's -18.3dB loud
+jetzt ist mvol-18.3dB-RT-1-Stef-001.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-002.wav
+basename is RT-1-Stef-002.wav
+directory is ./drs-for-tx16wx/RT1
+It's -7.5dB loud
+jetzt ist mvol-7.5dB-RT-1-Stef-002.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-003.wav
+basename is RT-1-Stef-003.wav
+directory is ./drs-for-tx16wx/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-003.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-004.wav
+basename is RT-1-Stef-004.wav
+directory is ./drs-for-tx16wx/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-004.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-005.wav
+basename is RT-1-Stef-005.wav
+directory is ./drs-for-tx16wx/RT1
+It's -11.0dB loud
+jetzt ist mvol-11.0dB-RT-1-Stef-005.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-006.wav
+basename is RT-1-Stef-006.wav
+directory is ./drs-for-tx16wx/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-006.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-008.wav
+basename is RT-1-Stef-008.wav
+directory is ./drs-for-tx16wx/RT1
+It's -32.7dB loud
+jetzt ist mvol-32.7dB-RT-1-Stef-008.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT1/RT-1-Stef-009.wav
+basename is RT-1-Stef-009.wav
+directory is ./drs-for-tx16wx/RT1
+It's -7.8dB loud
+jetzt ist mvol-7.8dB-RT-1-Stef-009.wav in ./drs-for-tx16wx/RT1
+./drs-for-tx16wx/RT2/RT2-Stef-001.wav
+basename is RT2-Stef-001.wav
+directory is ./drs-for-tx16wx/RT2
+It's -2.7dB loud
+jetzt ist mvol-2.7dB-RT2-Stef-001.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-002.wav
+basename is RT2-Stef-002.wav
+directory is ./drs-for-tx16wx/RT2
+It's -9.2dB loud
+jetzt ist mvol-9.2dB-RT2-Stef-002.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-003.wav
+basename is RT2-Stef-003.wav
+directory is ./drs-for-tx16wx/RT2
+It's -12.1dB loud
+jetzt ist mvol-12.1dB-RT2-Stef-003.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-004.wav
+basename is RT2-Stef-004.wav
+directory is ./drs-for-tx16wx/RT2
+It's -20.9dB loud
+jetzt ist mvol-20.9dB-RT2-Stef-004.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-005.wav
+basename is RT2-Stef-005.wav
+directory is ./drs-for-tx16wx/RT2
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT2-Stef-005.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-006.wav
+basename is RT2-Stef-006.wav
+directory is ./drs-for-tx16wx/RT2
+It's -2.9dB loud
+jetzt ist mvol-2.9dB-RT2-Stef-006.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-007.wav
+basename is RT2-Stef-007.wav
+directory is ./drs-for-tx16wx/RT2
+It's -8.4dB loud
+jetzt ist mvol-8.4dB-RT2-Stef-007.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-008.wav
+basename is RT2-Stef-008.wav
+directory is ./drs-for-tx16wx/RT2
+It's -18.7dB loud
+jetzt ist mvol-18.7dB-RT2-Stef-008.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-009.wav
+basename is RT2-Stef-009.wav
+directory is ./drs-for-tx16wx/RT2
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT2-Stef-009.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-010.wav
+basename is RT2-Stef-010.wav
+directory is ./drs-for-tx16wx/RT2
+It's -14.3dB loud
+jetzt ist mvol-14.3dB-RT2-Stef-010.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-011.wav
+basename is RT2-Stef-011.wav
+directory is ./drs-for-tx16wx/RT2
+It's -23.6dB loud
+jetzt ist mvol-23.6dB-RT2-Stef-011.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/RT2/RT2-Stef-012.wav
+basename is RT2-Stef-012.wav
+directory is ./drs-for-tx16wx/RT2
+It's -11.0dB loud
+jetzt ist mvol-11.0dB-RT2-Stef-012.wav in ./drs-for-tx16wx/RT2
+./drs-for-tx16wx/Snare/Snare-Stef-001.wav
+basename is Snare-Stef-001.wav
+directory is ./drs-for-tx16wx/Snare
+It's -25.2dB loud
+jetzt ist mvol-25.2dB-Snare-Stef-001.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-002.wav
+basename is Snare-Stef-002.wav
+directory is ./drs-for-tx16wx/Snare
+It's -18.4dB loud
+jetzt ist mvol-18.4dB-Snare-Stef-002.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-003.wav
+basename is Snare-Stef-003.wav
+directory is ./drs-for-tx16wx/Snare
+It's -26.0dB loud
+jetzt ist mvol-26.0dB-Snare-Stef-003.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-004.wav
+basename is Snare-Stef-004.wav
+directory is ./drs-for-tx16wx/Snare
+It's -26.5dB loud
+jetzt ist mvol-26.5dB-Snare-Stef-004.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-005.wav
+basename is Snare-Stef-005.wav
+directory is ./drs-for-tx16wx/Snare
+It's -25.5dB loud
+jetzt ist mvol-25.5dB-Snare-Stef-005.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-006.wav
+basename is Snare-Stef-006.wav
+directory is ./drs-for-tx16wx/Snare
+It's -21.2dB loud
+jetzt ist mvol-21.2dB-Snare-Stef-006.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-007.wav
+basename is Snare-Stef-007.wav
+directory is ./drs-for-tx16wx/Snare
+It's -17.7dB loud
+jetzt ist mvol-17.7dB-Snare-Stef-007.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-008.wav
+basename is Snare-Stef-008.wav
+directory is ./drs-for-tx16wx/Snare
+It's -18.6dB loud
+jetzt ist mvol-18.6dB-Snare-Stef-008.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-009.wav
+basename is Snare-Stef-009.wav
+directory is ./drs-for-tx16wx/Snare
+It's -10.7dB loud
+jetzt ist mvol-10.7dB-Snare-Stef-009.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-010.wav
+basename is Snare-Stef-010.wav
+directory is ./drs-for-tx16wx/Snare
+It's -13.5dB loud
+jetzt ist mvol-13.5dB-Snare-Stef-010.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-011.wav
+basename is Snare-Stef-011.wav
+directory is ./drs-for-tx16wx/Snare
+It's -7.3dB loud
+jetzt ist mvol-7.3dB-Snare-Stef-011.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-012.wav
+basename is Snare-Stef-012.wav
+directory is ./drs-for-tx16wx/Snare
+It's -3.3dB loud
+jetzt ist mvol-3.3dB-Snare-Stef-012.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-013.wav
+basename is Snare-Stef-013.wav
+directory is ./drs-for-tx16wx/Snare
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-Snare-Stef-013.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-014.wav
+basename is Snare-Stef-014.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-014.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-015.wav
+basename is Snare-Stef-015.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-015.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-016.wav
+basename is Snare-Stef-016.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-016.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-017.wav
+basename is Snare-Stef-017.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-017.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-018.wav
+basename is Snare-Stef-018.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-018.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-019.wav
+basename is Snare-Stef-019.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-019.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-020.wav
+basename is Snare-Stef-020.wav
+directory is ./drs-for-tx16wx/Snare
+It's -30.2dB loud
+jetzt ist mvol-30.2dB-Snare-Stef-020.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-021.wav
+basename is Snare-Stef-021.wav
+directory is ./drs-for-tx16wx/Snare
+It's -22.9dB loud
+jetzt ist mvol-22.9dB-Snare-Stef-021.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-022.wav
+basename is Snare-Stef-022.wav
+directory is ./drs-for-tx16wx/Snare
+It's -16.6dB loud
+jetzt ist mvol-16.6dB-Snare-Stef-022.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-023.wav
+basename is Snare-Stef-023.wav
+directory is ./drs-for-tx16wx/Snare
+It's -10.6dB loud
+jetzt ist mvol-10.6dB-Snare-Stef-023.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-024.wav
+basename is Snare-Stef-024.wav
+directory is ./drs-for-tx16wx/Snare
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-Snare-Stef-024.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-025.wav
+basename is Snare-Stef-025.wav
+directory is ./drs-for-tx16wx/Snare
+It's -0.9dB loud
+jetzt ist mvol-0.9dB-Snare-Stef-025.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-026.wav
+basename is Snare-Stef-026.wav
+directory is ./drs-for-tx16wx/Snare
+It's -2.7dB loud
+jetzt ist mvol-2.7dB-Snare-Stef-026.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-027.wav
+basename is Snare-Stef-027.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-027.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-028.wav
+basename is Snare-Stef-028.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-028.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-029.wav
+basename is Snare-Stef-029.wav
+directory is ./drs-for-tx16wx/Snare
+It's -20.4dB loud
+jetzt ist mvol-20.4dB-Snare-Stef-029.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-030.wav
+basename is Snare-Stef-030.wav
+directory is ./drs-for-tx16wx/Snare
+It's -20.7dB loud
+jetzt ist mvol-20.7dB-Snare-Stef-030.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-031.wav
+basename is Snare-Stef-031.wav
+directory is ./drs-for-tx16wx/Snare
+It's -15.8dB loud
+jetzt ist mvol-15.8dB-Snare-Stef-031.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-032.wav
+basename is Snare-Stef-032.wav
+directory is ./drs-for-tx16wx/Snare
+It's -11.8dB loud
+jetzt ist mvol-11.8dB-Snare-Stef-032.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-033.wav
+basename is Snare-Stef-033.wav
+directory is ./drs-for-tx16wx/Snare
+It's -5.7dB loud
+jetzt ist mvol-5.7dB-Snare-Stef-033.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-034.wav
+basename is Snare-Stef-034.wav
+directory is ./drs-for-tx16wx/Snare
+It's -1.7dB loud
+jetzt ist mvol-1.7dB-Snare-Stef-034.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-035.wav
+basename is Snare-Stef-035.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-035.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-036.wav
+basename is Snare-Stef-036.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-036.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-037.wav
+basename is Snare-Stef-037.wav
+directory is ./drs-for-tx16wx/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-037.wav in ./drs-for-tx16wx/Snare
+./drs-for-tx16wx/Snare/Snare-Stef-052.wav
+basename is Snare-Stef-052.wav
+directory is ./drs-for-tx16wx/Snare
+It's -16.6dB loud
+jetzt ist mvol-16.6dB-Snare-Stef-052.wav in ./drs-for-tx16wx/Snare
+./drs7/BD/BD-Stef-001.wav
+basename is BD-Stef-001.wav
+directory is ./drs7/BD
+It's -5.8dB loud
+jetzt ist mvol-5.8dB-BD-Stef-001.wav in ./drs7/BD
+./drs7/BD/BD-Stef-002.wav
+basename is BD-Stef-002.wav
+directory is ./drs7/BD
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-BD-Stef-002.wav in ./drs7/BD
+./drs7/BD/BD-Stef-003.wav
+basename is BD-Stef-003.wav
+directory is ./drs7/BD
+It's -3.0dB loud
+jetzt ist mvol-3.0dB-BD-Stef-003.wav in ./drs7/BD
+./drs7/BD/BD-Stef-004.wav
+basename is BD-Stef-004.wav
+directory is ./drs7/BD
+It's -3.9dB loud
+jetzt ist mvol-3.9dB-BD-Stef-004.wav in ./drs7/BD
+./drs7/BD/BD-Stef-005.wav
+basename is BD-Stef-005.wav
+directory is ./drs7/BD
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-BD-Stef-005.wav in ./drs7/BD
+./drs7/BD/BD-Stef-006.wav
+basename is BD-Stef-006.wav
+directory is ./drs7/BD
+It's -3.7dB loud
+jetzt ist mvol-3.7dB-BD-Stef-006.wav in ./drs7/BD
+./drs7/BD/BD-Stef-007.wav
+basename is BD-Stef-007.wav
+directory is ./drs7/BD
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-BD-Stef-007.wav in ./drs7/BD
+./drs7/BD/BD-Stef-008.wav
+basename is BD-Stef-008.wav
+directory is ./drs7/BD
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-BD-Stef-008.wav in ./drs7/BD
+./drs7/BD/BD-Stef-009.wav
+basename is BD-Stef-009.wav
+directory is ./drs7/BD
+It's -2.8dB loud
+jetzt ist mvol-2.8dB-BD-Stef-009.wav in ./drs7/BD
+./drs7/Crash/Crash-Stef-001.wav
+basename is Crash-Stef-001.wav
+directory is ./drs7/Crash
+It's -24.6dB loud
+jetzt ist mvol-24.6dB-Crash-Stef-001.wav in ./drs7/Crash
+./drs7/Crash/Crash-Stef-002.wav
+basename is Crash-Stef-002.wav
+directory is ./drs7/Crash
+It's -24.9dB loud
+jetzt ist mvol-24.9dB-Crash-Stef-002.wav in ./drs7/Crash
+./drs7/Crash/Crash-Stef-003.wav
+basename is Crash-Stef-003.wav
+directory is ./drs7/Crash
+It's -19.2dB loud
+jetzt ist mvol-19.2dB-Crash-Stef-003.wav in ./drs7/Crash
+./drs7/Crash/Crash-Stef-004.wav
+basename is Crash-Stef-004.wav
+directory is ./drs7/Crash
+It's -32.5dB loud
+jetzt ist mvol-32.5dB-Crash-Stef-004.wav in ./drs7/Crash
+./drs7/Crash/Crash-Stef-005.wav
+basename is Crash-Stef-005.wav
+directory is ./drs7/Crash
+It's -29.5dB loud
+jetzt ist mvol-29.5dB-Crash-Stef-005.wav in ./drs7/Crash
+./drs7/FT1/FT1-Stef-001.wav
+basename is FT1-Stef-001.wav
+directory is ./drs7/FT1
+It's -0.5dB loud
+jetzt ist mvol-0.5dB-FT1-Stef-001.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-002.wav
+basename is FT1-Stef-002.wav
+directory is ./drs7/FT1
+It's -10.8dB loud
+jetzt ist mvol-10.8dB-FT1-Stef-002.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-003.wav
+basename is FT1-Stef-003.wav
+directory is ./drs7/FT1
+It's -20.1dB loud
+jetzt ist mvol-20.1dB-FT1-Stef-003.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-004.wav
+basename is FT1-Stef-004.wav
+directory is ./drs7/FT1
+It's -25.2dB loud
+jetzt ist mvol-25.2dB-FT1-Stef-004.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-005.wav
+basename is FT1-Stef-005.wav
+directory is ./drs7/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-005.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-006.wav
+basename is FT1-Stef-006.wav
+directory is ./drs7/FT1
+It's -20.0dB loud
+jetzt ist mvol-20.0dB-FT1-Stef-006.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-007.wav
+basename is FT1-Stef-007.wav
+directory is ./drs7/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-007.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-008.wav
+basename is FT1-Stef-008.wav
+directory is ./drs7/FT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-FT1-Stef-008.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-009.wav
+basename is FT1-Stef-009.wav
+directory is ./drs7/FT1
+It's -5.8dB loud
+jetzt ist mvol-5.8dB-FT1-Stef-009.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-010.wav
+basename is FT1-Stef-010.wav
+directory is ./drs7/FT1
+It's -9.2dB loud
+jetzt ist mvol-9.2dB-FT1-Stef-010.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-011.wav
+basename is FT1-Stef-011.wav
+directory is ./drs7/FT1
+It's -3.1dB loud
+jetzt ist mvol-3.1dB-FT1-Stef-011.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-012.wav
+basename is FT1-Stef-012.wav
+directory is ./drs7/FT1
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT1-Stef-012.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-013.wav
+basename is FT1-Stef-013.wav
+directory is ./drs7/FT1
+It's -11.4dB loud
+jetzt ist mvol-11.4dB-FT1-Stef-013.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-014.wav
+basename is FT1-Stef-014.wav
+directory is ./drs7/FT1
+It's -6.5dB loud
+jetzt ist mvol-6.5dB-FT1-Stef-014.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-015.wav
+basename is FT1-Stef-015.wav
+directory is ./drs7/FT1
+It's -0.8dB loud
+jetzt ist mvol-0.8dB-FT1-Stef-015.wav in ./drs7/FT1
+./drs7/FT1/FT1-Stef-016.wav
+basename is FT1-Stef-016.wav
+directory is ./drs7/FT1
+It's -4.8dB loud
+jetzt ist mvol-4.8dB-FT1-Stef-016.wav in ./drs7/FT1
+./drs7/FT2/FT2-Stef-001.wav
+basename is FT2-Stef-001.wav
+directory is ./drs7/FT2
+It's -1.7dB loud
+jetzt ist mvol-1.7dB-FT2-Stef-001.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-002.wav
+basename is FT2-Stef-002.wav
+directory is ./drs7/FT2
+It's -4.8dB loud
+jetzt ist mvol-4.8dB-FT2-Stef-002.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-003.wav
+basename is FT2-Stef-003.wav
+directory is ./drs7/FT2
+It's -11.5dB loud
+jetzt ist mvol-11.5dB-FT2-Stef-003.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-004.wav
+basename is FT2-Stef-004.wav
+directory is ./drs7/FT2
+It's -22.6dB loud
+jetzt ist mvol-22.6dB-FT2-Stef-004.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-005.wav
+basename is FT2-Stef-005.wav
+directory is ./drs7/FT2
+It's -0.6dB loud
+jetzt ist mvol-0.6dB-FT2-Stef-005.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-006.wav
+basename is FT2-Stef-006.wav
+directory is ./drs7/FT2
+It's -3.3dB loud
+jetzt ist mvol-3.3dB-FT2-Stef-006.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-007.wav
+basename is FT2-Stef-007.wav
+directory is ./drs7/FT2
+It's -14.1dB loud
+jetzt ist mvol-14.1dB-FT2-Stef-007.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-008.wav
+basename is FT2-Stef-008.wav
+directory is ./drs7/FT2
+It's -13.2dB loud
+jetzt ist mvol-13.2dB-FT2-Stef-008.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-009.wav
+basename is FT2-Stef-009.wav
+directory is ./drs7/FT2
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT2-Stef-009.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-010.wav
+basename is FT2-Stef-010.wav
+directory is ./drs7/FT2
+It's -6.4dB loud
+jetzt ist mvol-6.4dB-FT2-Stef-010.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-011.wav
+basename is FT2-Stef-011.wav
+directory is ./drs7/FT2
+It's -11.8dB loud
+jetzt ist mvol-11.8dB-FT2-Stef-011.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-012.wav
+basename is FT2-Stef-012.wav
+directory is ./drs7/FT2
+It's -18.7dB loud
+jetzt ist mvol-18.7dB-FT2-Stef-012.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-013.wav
+basename is FT2-Stef-013.wav
+directory is ./drs7/FT2
+It's 0.0dB loud
+jetzt ist mvol0.0dB-FT2-Stef-013.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-014.wav
+basename is FT2-Stef-014.wav
+directory is ./drs7/FT2
+It's -11.9dB loud
+jetzt ist mvol-11.9dB-FT2-Stef-014.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-015.wav
+basename is FT2-Stef-015.wav
+directory is ./drs7/FT2
+It's -1.0dB loud
+jetzt ist mvol-1.0dB-FT2-Stef-015.wav in ./drs7/FT2
+./drs7/FT2/FT2-Stef-016.wav
+basename is FT2-Stef-016.wav
+directory is ./drs7/FT2
+It's -11.5dB loud
+jetzt ist mvol-11.5dB-FT2-Stef-016.wav in ./drs7/FT2
+./drs7/HH/HH-stef-001.wav
+basename is HH-stef-001.wav
+directory is ./drs7/HH
+It's -44.6dB loud
+jetzt ist mvol-44.6dB-HH-stef-001.wav in ./drs7/HH
+./drs7/HH/HH-stef-002.wav
+basename is HH-stef-002.wav
+directory is ./drs7/HH
+It's -33.0dB loud
+jetzt ist mvol-33.0dB-HH-stef-002.wav in ./drs7/HH
+./drs7/HH/HH-stef-003.wav
+basename is HH-stef-003.wav
+directory is ./drs7/HH
+It's -30.5dB loud
+jetzt ist mvol-30.5dB-HH-stef-003.wav in ./drs7/HH
+./drs7/HH/HH-stef-004.wav
+basename is HH-stef-004.wav
+directory is ./drs7/HH
+It's -33.0dB loud
+jetzt ist mvol-33.0dB-HH-stef-004.wav in ./drs7/HH
+./drs7/HH/HH-stef-005.wav
+basename is HH-stef-005.wav
+directory is ./drs7/HH
+It's -36.7dB loud
+jetzt ist mvol-36.7dB-HH-stef-005.wav in ./drs7/HH
+./drs7/HH/HH-stef-006.wav
+basename is HH-stef-006.wav
+directory is ./drs7/HH
+It's -31.3dB loud
+jetzt ist mvol-31.3dB-HH-stef-006.wav in ./drs7/HH
+./drs7/HH/HH-stef-007.wav
+basename is HH-stef-007.wav
+directory is ./drs7/HH
+It's -33.7dB loud
+jetzt ist mvol-33.7dB-HH-stef-007.wav in ./drs7/HH
+./drs7/HH/HH-stef-008.wav
+basename is HH-stef-008.wav
+directory is ./drs7/HH
+It's -19.8dB loud
+jetzt ist mvol-19.8dB-HH-stef-008.wav in ./drs7/HH
+./drs7/HH/HH-stef-009.wav
+basename is HH-stef-009.wav
+directory is ./drs7/HH
+It's -25.9dB loud
+jetzt ist mvol-25.9dB-HH-stef-009.wav in ./drs7/HH
+./drs7/HH/HH-stef-010.wav
+basename is HH-stef-010.wav
+directory is ./drs7/HH
+It's -28.1dB loud
+jetzt ist mvol-28.1dB-HH-stef-010.wav in ./drs7/HH
+./drs7/HH/HH-stef-011.wav
+basename is HH-stef-011.wav
+directory is ./drs7/HH
+It's -21.0dB loud
+jetzt ist mvol-21.0dB-HH-stef-011.wav in ./drs7/HH
+./drs7/HH/HH-stef-012.wav
+basename is HH-stef-012.wav
+directory is ./drs7/HH
+It's -20.4dB loud
+jetzt ist mvol-20.4dB-HH-stef-012.wav in ./drs7/HH
+./drs7/HH/HH-stef-013.wav
+basename is HH-stef-013.wav
+directory is ./drs7/HH
+It's -18.9dB loud
+jetzt ist mvol-18.9dB-HH-stef-013.wav in ./drs7/HH
+./drs7/HH/HH-stef-014.wav
+basename is HH-stef-014.wav
+directory is ./drs7/HH
+It's -18.8dB loud
+jetzt ist mvol-18.8dB-HH-stef-014.wav in ./drs7/HH
+./drs7/HH/HH-stef-015.wav
+basename is HH-stef-015.wav
+directory is ./drs7/HH
+It's -18.5dB loud
+jetzt ist mvol-18.5dB-HH-stef-015.wav in ./drs7/HH
+./drs7/HH/HH-stef-016.wav
+basename is HH-stef-016.wav
+directory is ./drs7/HH
+It's -19.6dB loud
+jetzt ist mvol-19.6dB-HH-stef-016.wav in ./drs7/HH
+./drs7/HH/HH-stef-017.wav
+basename is HH-stef-017.wav
+directory is ./drs7/HH
+It's -17.9dB loud
+jetzt ist mvol-17.9dB-HH-stef-017.wav in ./drs7/HH
+./drs7/HH/HH-stef-018.wav
+basename is HH-stef-018.wav
+directory is ./drs7/HH
+It's -14.0dB loud
+jetzt ist mvol-14.0dB-HH-stef-018.wav in ./drs7/HH
+./drs7/HH/HH-stef-019.wav
+basename is HH-stef-019.wav
+directory is ./drs7/HH
+It's -13.3dB loud
+jetzt ist mvol-13.3dB-HH-stef-019.wav in ./drs7/HH
+./drs7/HH/HH-stef-020.wav
+basename is HH-stef-020.wav
+directory is ./drs7/HH
+It's -14.5dB loud
+jetzt ist mvol-14.5dB-HH-stef-020.wav in ./drs7/HH
+./drs7/HH/HH-stef-021.wav
+basename is HH-stef-021.wav
+directory is ./drs7/HH
+It's -15.0dB loud
+jetzt ist mvol-15.0dB-HH-stef-021.wav in ./drs7/HH
+./drs7/HH/HH-stef-022.wav
+basename is HH-stef-022.wav
+directory is ./drs7/HH
+It's -14.8dB loud
+jetzt ist mvol-14.8dB-HH-stef-022.wav in ./drs7/HH
+./drs7/HH/HH-stef-023.wav
+basename is HH-stef-023.wav
+directory is ./drs7/HH
+It's -15.8dB loud
+jetzt ist mvol-15.8dB-HH-stef-023.wav in ./drs7/HH
+./drs7/HH/HH-stef-024.wav
+basename is HH-stef-024.wav
+directory is ./drs7/HH
+It's -15.5dB loud
+jetzt ist mvol-15.5dB-HH-stef-024.wav in ./drs7/HH
+./drs7/HH/HH-stef-025.wav
+basename is HH-stef-025.wav
+directory is ./drs7/HH
+It's -15.0dB loud
+jetzt ist mvol-15.0dB-HH-stef-025.wav in ./drs7/HH
+./drs7/HH/HH-stef-027.wav
+basename is HH-stef-027.wav
+directory is ./drs7/HH
+It's -13.1dB loud
+jetzt ist mvol-13.1dB-HH-stef-027.wav in ./drs7/HH
+./drs7/HH/HH-stef-028.wav
+basename is HH-stef-028.wav
+directory is ./drs7/HH
+It's -15.7dB loud
+jetzt ist mvol-15.7dB-HH-stef-028.wav in ./drs7/HH
+./drs7/HH/HH-stef-029.wav
+basename is HH-stef-029.wav
+directory is ./drs7/HH
+It's -14.1dB loud
+jetzt ist mvol-14.1dB-HH-stef-029.wav in ./drs7/HH
+./drs7/HH/HH-stef-LOOP.wav
+basename is HH-stef-LOOP.wav
+directory is ./drs7/HH
+It's -11.9dB loud
+jetzt ist mvol-11.9dB-HH-stef-LOOP.wav in ./drs7/HH
+./drs7/Ride/Ride-Loop-Stef.wav
+basename is Ride-Loop-Stef.wav
+directory is ./drs7/Ride
+It's -3.5dB loud
+jetzt ist mvol-3.5dB-Ride-Loop-Stef.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-001.wav
+basename is Ride-Stef-001.wav
+directory is ./drs7/Ride
+It's -21.3dB loud
+jetzt ist mvol-21.3dB-Ride-Stef-001.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-002.wav
+basename is Ride-Stef-002.wav
+directory is ./drs7/Ride
+It's -20.5dB loud
+jetzt ist mvol-20.5dB-Ride-Stef-002.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-003.wav
+basename is Ride-Stef-003.wav
+directory is ./drs7/Ride
+It's -18.9dB loud
+jetzt ist mvol-18.9dB-Ride-Stef-003.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-004.wav
+basename is Ride-Stef-004.wav
+directory is ./drs7/Ride
+It's -21.9dB loud
+jetzt ist mvol-21.9dB-Ride-Stef-004.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-005.wav
+basename is Ride-Stef-005.wav
+directory is ./drs7/Ride
+It's -23.5dB loud
+jetzt ist mvol-23.5dB-Ride-Stef-005.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-006.wav
+basename is Ride-Stef-006.wav
+directory is ./drs7/Ride
+It's -20.7dB loud
+jetzt ist mvol-20.7dB-Ride-Stef-006.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-007.wav
+basename is Ride-Stef-007.wav
+directory is ./drs7/Ride
+It's -21.6dB loud
+jetzt ist mvol-21.6dB-Ride-Stef-007.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-008.wav
+basename is Ride-Stef-008.wav
+directory is ./drs7/Ride
+It's -19.3dB loud
+jetzt ist mvol-19.3dB-Ride-Stef-008.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-009.wav
+basename is Ride-Stef-009.wav
+directory is ./drs7/Ride
+It's -10.1dB loud
+jetzt ist mvol-10.1dB-Ride-Stef-009.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-010.wav
+basename is Ride-Stef-010.wav
+directory is ./drs7/Ride
+It's -20.0dB loud
+jetzt ist mvol-20.0dB-Ride-Stef-010.wav in ./drs7/Ride
+./drs7/Ride/Ride-Stef-011.wav
+basename is Ride-Stef-011.wav
+directory is ./drs7/Ride
+It's -20.3dB loud
+jetzt ist mvol-20.3dB-Ride-Stef-011.wav in ./drs7/Ride
+./drs7/RT1/RT-1-Stef-001.wav
+basename is RT-1-Stef-001.wav
+directory is ./drs7/RT1
+It's -18.3dB loud
+jetzt ist mvol-18.3dB-RT-1-Stef-001.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-002.wav
+basename is RT-1-Stef-002.wav
+directory is ./drs7/RT1
+It's -7.5dB loud
+jetzt ist mvol-7.5dB-RT-1-Stef-002.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-003.wav
+basename is RT-1-Stef-003.wav
+directory is ./drs7/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-003.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-004.wav
+basename is RT-1-Stef-004.wav
+directory is ./drs7/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-004.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-005.wav
+basename is RT-1-Stef-005.wav
+directory is ./drs7/RT1
+It's -11.0dB loud
+jetzt ist mvol-11.0dB-RT-1-Stef-005.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-006.wav
+basename is RT-1-Stef-006.wav
+directory is ./drs7/RT1
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT-1-Stef-006.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-008.wav
+basename is RT-1-Stef-008.wav
+directory is ./drs7/RT1
+It's -32.7dB loud
+jetzt ist mvol-32.7dB-RT-1-Stef-008.wav in ./drs7/RT1
+./drs7/RT1/RT-1-Stef-009.wav
+basename is RT-1-Stef-009.wav
+directory is ./drs7/RT1
+It's -7.8dB loud
+jetzt ist mvol-7.8dB-RT-1-Stef-009.wav in ./drs7/RT1
+./drs7/RT2/RT2-Stef-001.wav
+basename is RT2-Stef-001.wav
+directory is ./drs7/RT2
+It's -2.7dB loud
+jetzt ist mvol-2.7dB-RT2-Stef-001.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-002.wav
+basename is RT2-Stef-002.wav
+directory is ./drs7/RT2
+It's -9.2dB loud
+jetzt ist mvol-9.2dB-RT2-Stef-002.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-003.wav
+basename is RT2-Stef-003.wav
+directory is ./drs7/RT2
+It's -12.1dB loud
+jetzt ist mvol-12.1dB-RT2-Stef-003.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-004.wav
+basename is RT2-Stef-004.wav
+directory is ./drs7/RT2
+It's -20.9dB loud
+jetzt ist mvol-20.9dB-RT2-Stef-004.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-005.wav
+basename is RT2-Stef-005.wav
+directory is ./drs7/RT2
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT2-Stef-005.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-006.wav
+basename is RT2-Stef-006.wav
+directory is ./drs7/RT2
+It's -2.9dB loud
+jetzt ist mvol-2.9dB-RT2-Stef-006.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-007.wav
+basename is RT2-Stef-007.wav
+directory is ./drs7/RT2
+It's -8.4dB loud
+jetzt ist mvol-8.4dB-RT2-Stef-007.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-008.wav
+basename is RT2-Stef-008.wav
+directory is ./drs7/RT2
+It's -18.7dB loud
+jetzt ist mvol-18.7dB-RT2-Stef-008.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-009.wav
+basename is RT2-Stef-009.wav
+directory is ./drs7/RT2
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-RT2-Stef-009.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-010.wav
+basename is RT2-Stef-010.wav
+directory is ./drs7/RT2
+It's -14.3dB loud
+jetzt ist mvol-14.3dB-RT2-Stef-010.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-011.wav
+basename is RT2-Stef-011.wav
+directory is ./drs7/RT2
+It's -23.6dB loud
+jetzt ist mvol-23.6dB-RT2-Stef-011.wav in ./drs7/RT2
+./drs7/RT2/RT2-Stef-012.wav
+basename is RT2-Stef-012.wav
+directory is ./drs7/RT2
+It's -11.0dB loud
+jetzt ist mvol-11.0dB-RT2-Stef-012.wav in ./drs7/RT2
+./drs7/Snare/Snare-Stef-001.wav
+basename is Snare-Stef-001.wav
+directory is ./drs7/Snare
+It's -25.2dB loud
+jetzt ist mvol-25.2dB-Snare-Stef-001.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-002.wav
+basename is Snare-Stef-002.wav
+directory is ./drs7/Snare
+It's -18.4dB loud
+jetzt ist mvol-18.4dB-Snare-Stef-002.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-003.wav
+basename is Snare-Stef-003.wav
+directory is ./drs7/Snare
+It's -26.0dB loud
+jetzt ist mvol-26.0dB-Snare-Stef-003.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-004.wav
+basename is Snare-Stef-004.wav
+directory is ./drs7/Snare
+It's -26.5dB loud
+jetzt ist mvol-26.5dB-Snare-Stef-004.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-005.wav
+basename is Snare-Stef-005.wav
+directory is ./drs7/Snare
+It's -25.5dB loud
+jetzt ist mvol-25.5dB-Snare-Stef-005.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-006.wav
+basename is Snare-Stef-006.wav
+directory is ./drs7/Snare
+It's -21.2dB loud
+jetzt ist mvol-21.2dB-Snare-Stef-006.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-007.wav
+basename is Snare-Stef-007.wav
+directory is ./drs7/Snare
+It's -17.7dB loud
+jetzt ist mvol-17.7dB-Snare-Stef-007.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-008.wav
+basename is Snare-Stef-008.wav
+directory is ./drs7/Snare
+It's -18.6dB loud
+jetzt ist mvol-18.6dB-Snare-Stef-008.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-009.wav
+basename is Snare-Stef-009.wav
+directory is ./drs7/Snare
+It's -10.7dB loud
+jetzt ist mvol-10.7dB-Snare-Stef-009.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-010.wav
+basename is Snare-Stef-010.wav
+directory is ./drs7/Snare
+It's -13.5dB loud
+jetzt ist mvol-13.5dB-Snare-Stef-010.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-011.wav
+basename is Snare-Stef-011.wav
+directory is ./drs7/Snare
+It's -7.3dB loud
+jetzt ist mvol-7.3dB-Snare-Stef-011.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-012.wav
+basename is Snare-Stef-012.wav
+directory is ./drs7/Snare
+It's -3.3dB loud
+jetzt ist mvol-3.3dB-Snare-Stef-012.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-013.wav
+basename is Snare-Stef-013.wav
+directory is ./drs7/Snare
+It's -4.2dB loud
+jetzt ist mvol-4.2dB-Snare-Stef-013.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-014.wav
+basename is Snare-Stef-014.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-014.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-015.wav
+basename is Snare-Stef-015.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-015.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-016.wav
+basename is Snare-Stef-016.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-016.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-017.wav
+basename is Snare-Stef-017.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-017.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-018.wav
+basename is Snare-Stef-018.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-018.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-019.wav
+basename is Snare-Stef-019.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-019.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-020.wav
+basename is Snare-Stef-020.wav
+directory is ./drs7/Snare
+It's -30.2dB loud
+jetzt ist mvol-30.2dB-Snare-Stef-020.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-021.wav
+basename is Snare-Stef-021.wav
+directory is ./drs7/Snare
+It's -22.9dB loud
+jetzt ist mvol-22.9dB-Snare-Stef-021.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-022.wav
+basename is Snare-Stef-022.wav
+directory is ./drs7/Snare
+It's -16.6dB loud
+jetzt ist mvol-16.6dB-Snare-Stef-022.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-023.wav
+basename is Snare-Stef-023.wav
+directory is ./drs7/Snare
+It's -10.6dB loud
+jetzt ist mvol-10.6dB-Snare-Stef-023.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-024.wav
+basename is Snare-Stef-024.wav
+directory is ./drs7/Snare
+It's -0.0dB loud
+jetzt ist mvol-0.0dB-Snare-Stef-024.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-025.wav
+basename is Snare-Stef-025.wav
+directory is ./drs7/Snare
+It's -0.9dB loud
+jetzt ist mvol-0.9dB-Snare-Stef-025.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-026.wav
+basename is Snare-Stef-026.wav
+directory is ./drs7/Snare
+It's -2.7dB loud
+jetzt ist mvol-2.7dB-Snare-Stef-026.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-027.wav
+basename is Snare-Stef-027.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-027.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-028.wav
+basename is Snare-Stef-028.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-028.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-029.wav
+basename is Snare-Stef-029.wav
+directory is ./drs7/Snare
+It's -20.4dB loud
+jetzt ist mvol-20.4dB-Snare-Stef-029.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-030.wav
+basename is Snare-Stef-030.wav
+directory is ./drs7/Snare
+It's -20.7dB loud
+jetzt ist mvol-20.7dB-Snare-Stef-030.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-031.wav
+basename is Snare-Stef-031.wav
+directory is ./drs7/Snare
+It's -15.8dB loud
+jetzt ist mvol-15.8dB-Snare-Stef-031.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-032.wav
+basename is Snare-Stef-032.wav
+directory is ./drs7/Snare
+It's -11.8dB loud
+jetzt ist mvol-11.8dB-Snare-Stef-032.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-033.wav
+basename is Snare-Stef-033.wav
+directory is ./drs7/Snare
+It's -5.7dB loud
+jetzt ist mvol-5.7dB-Snare-Stef-033.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-034.wav
+basename is Snare-Stef-034.wav
+directory is ./drs7/Snare
+It's -1.7dB loud
+jetzt ist mvol-1.7dB-Snare-Stef-034.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-035.wav
+basename is Snare-Stef-035.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-035.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-036.wav
+basename is Snare-Stef-036.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-036.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-037.wav
+basename is Snare-Stef-037.wav
+directory is ./drs7/Snare
+It's 0.0dB loud
+jetzt ist mvol0.0dB-Snare-Stef-037.wav in ./drs7/Snare
+./drs7/Snare/Snare-Stef-052.wav
+basename is Snare-Stef-052.wav
+directory is ./drs7/Snare
+It's -16.6dB loud
+jetzt ist mvol-16.6dB-Snare-Stef-052.wav in ./drs7/Snare

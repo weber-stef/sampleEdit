@@ -1,0 +1,4 @@
+#rename all files in folder to new name followed by number
+
+ls -v | cat -n | while read n f; do mv -n "$f" "HH-Pedal-$n.wav"; done 
+You can change .ext with .png, .jpg, etc. 

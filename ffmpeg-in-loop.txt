@@ -1,0 +1,2 @@
+for file in ./* ; do ffmpeg -i "$file" -af "volume=10dB" "${file%.*}-c.wav"; done
+
